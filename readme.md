@@ -3,4 +3,4 @@ https://github.com/ritwickdey/vscode-live-server-plus-plus
 
 Start:
 - right click on index.html
-- select open with Live Server option
+- select "Open with Live Server" option
